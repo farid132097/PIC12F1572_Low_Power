@@ -1,0 +1,66 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 12F1572 ]
+[d frameptr 6 ]
+"10 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"16 D:\Projects\Embedded Projects\Personal\MPLAB\PIC12F1572_Sleep_Mode.X\main.c
+[v _TIM2_Wait TIM2_Wait `(v  1 e 1 0 ]
+"26
+[v _main main `(v  1 e 1 0 ]
+"72
+[v _ISR ISR `II(v  1 e 1 0 ]
+"351 C:/Program Files/Microchip/MPLABX/v5.50/packs/Microchip/PIC12-16F1xxx_DFP/1.2.63/xc8\pic\include\proc\pic12f1572.h
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+"803
+[v _TMR2 TMR2 `VEuc  1 e 1 @26 ]
+"843
+[v _T2CON T2CON `VEuc  1 e 1 @28 ]
+"914
+[v _TRISA TRISA `VEuc  1 e 1 @140 ]
+"1077
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @149 ]
+"1509
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @157 ]
+"1712
+[v _LATA LATA `VEuc  1 e 1 @268 ]
+"1765
+[v _CM1CON0 CM1CON0 `VEuc  1 e 1 @273 ]
+"1947
+[v _FVRCON FVRCON `VEuc  1 e 1 @279 ]
+"2023
+[v _DACCON0 DACCON0 `VEuc  1 e 1 @280 ]
+"2242
+[v _ANSELA ANSELA `VEuc  1 e 1 @396 ]
+"2459
+[v _VREGCON VREGCON `VEuc  1 e 1 @407 ]
+"2743
+[v _WPUA WPUA `VEuc  1 e 1 @524 ]
+"2965
+[v _IOCAP IOCAP `VEuc  1 e 1 @913 ]
+"3023
+[v _IOCAN IOCAN `VEuc  1 e 1 @914 ]
+"3081
+[v _IOCAF IOCAF `VEuc  1 e 1 @915 ]
+"13 D:\Projects\Embedded Projects\Personal\MPLAB\PIC12F1572_Sleep_Mode.X\main.c
+[v _state state `VEi  1 e 2 0 ]
+"26
+[v _main main `(v  1 e 1 0 ]
+{
+"70
+} 0
+"16
+[v _TIM2_Wait TIM2_Wait `(v  1 e 1 0 ]
+{
+"18
+[v TIM2_Wait@i i `i  1 a 2 2 ]
+"23
+} 0
+"72
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"80
+} 0
